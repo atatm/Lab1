@@ -1,0 +1,49 @@
+this is also in the second linethis should also do the same
+this also start with new line
+hi B
+hi AAAAA
+am good how are you A?
+am doing good. and you?
+djflskdjf;sdf;s
+slkdjfslkdjflsdjf
+hellow A am doing good ? thank you for asking
+ok am ready now
+ B: yeah it is printed
+ B: dkjflskdjfsd
+ B: dkfjsldkjf
+ B: dkfjlsdkjfs
+ B: quit
+ A: java java
+ B: python python
+ A: 
+ B: 
+ A: quit
+ A: this is A
+ A: this is A for java
+ B: this is B for python
+ A: djflksjdkfsj
+ B: quit
+ A: djfklsjdflkjsdlfsdf
+ A: AAABBBCCCCC
+ B: DDDDEEEEFFFFF
+ A: quit
+ A: ddddddddddd
+ B: ccccccccccc
+ A: quit
+ A: cheeeeckkkkk
+ A: ttttthhhhhiiiiiisssss 
+ B: bbbbbbbbbbbbbbbbbbbbb
+ A: quit
+ A: 122312312
+ B: s2312312
+ A: quit
+ A: this is AAAAA
+ B: this is BBBBB
+ A: fhtis dkfjs
+ B: df's
+ A: quit
+ A: hi B
+ B: hi A
+ A: dkfjdl
+ B: dfkldjf
+ A: quit
